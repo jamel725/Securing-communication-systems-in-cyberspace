@@ -24,6 +24,8 @@
 
 
 
+
+
  Cryptography Exercises:
  
 • Scytale Cipher: Python implementation of the Scytale cipher with encryption and decryption support
@@ -33,6 +35,10 @@
 
 
 • Custom Encryption Tools: Simulations of symmetric and asymmetric encryption using simplified RSA logic
+
+
+
+
 
 
 
@@ -47,6 +53,8 @@
 
 
 
+
+
  Network Traffic Analysis:
  
 • Parsed .pcap files using the dpkt library
@@ -54,4 +62,6 @@
 • Extracted DNS queries, IP addresses, and visited URLs
 
 • Identified suspicious packets based on port number, protocol, and payload size
+
+
 
